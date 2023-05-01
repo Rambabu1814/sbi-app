@@ -6,7 +6,7 @@
   <dependencies>
   <dependency><groupId>in.ashok</groupId>
   <artifactId>pwd-utilities</artifactId>
-  <version>RELESE-2.0</version>
+  <version>RELESE-2.2</version>
   </dependency>
   </dependencies>
 </project>
